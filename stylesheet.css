@@ -17,13 +17,9 @@ a {
 
 .container {
   max-width: 1170px;
-  padding: 0 15px;
-  margin: 0 auto;
-}
-
-.top-wrapper {
+ 
   padding: 180px 0 100px 0;
-  background-image: url(https://www.google.com/imgres?imgurl=https%3A%2F%2Fwallpapercave.com%2Fwp%2Fwp6284281.jpg&imgrefurl=https%3A%2F%2Fwallpapercave.com%2Fcomputer-programer-desktop-wallpapers&tbnid=IiZwBROOBVhF9M&vet=1&docid=Vl1xSxpq6SDVXM&w=1920&h=1440&source=sh%2Fx%2Fim);
+  background-image: url(https://images.unsplash.com/photo-1510915228340-29c85a43dcfe?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80);
   background-size: cover;
   color: white;
   text-align: center;
